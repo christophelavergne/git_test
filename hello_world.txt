@@ -1,1 +1,2 @@
-Hello World! it's a GIT test.
+It's a GIT test.
+Supression de hello World et ajout de ce commentaire.
